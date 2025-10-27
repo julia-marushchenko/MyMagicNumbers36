@@ -7,11 +7,11 @@ package com.numbers;
 import java.util.Random;
 
 /*
- * com.numbers.Main class
+ * Main class
  */
 public class Main {
 
-    // com.numbers.Main method to run java program
+    // Main method to run java program
     public static void main(String[] args) {
 
         // Creating an array of random 12 numbers
